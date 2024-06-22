@@ -1,7 +1,7 @@
 package com.example;
 
 /**
- * Hello again!!!
+ * Hello World!
  *
  */
 public class App 
